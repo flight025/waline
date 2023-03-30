@@ -158,8 +158,8 @@ importers:
   docs:
     devDependencies:
       '@fancyapps/ui':
-        specifier: 5.0.12
-        version: 5.0.12
+        specifier: 5.0.14
+        version: 5.0.14
       '@vuepress/client':
         specifier: 2.0.0-beta.61
         version: 2.0.0-beta.61
@@ -3009,8 +3009,8 @@ packages:
     engines: {node: ^12.22.0 || ^14.17.0 || >=16.0.0}
     dev: true
 
-  /@fancyapps/ui@5.0.12:
-    resolution: {integrity: sha512-kNVwUmWCbkoRNLAZp/pEL2UCt0CmnOprVvpOL9ElOZc9nFg7j+Mv0qW4IRE9BytMSvTa2MEVTuPRnox3VQDLUQ==}
+  /@fancyapps/ui@5.0.14:
+    resolution: {integrity: sha512-BITMdmTW9+gEndPC0yiP+2XHN9SmkwY4/kLsyFdaPxowBhw0k5FdVjnhW8EEYjGU3gKSi5m3mE2Y8tfay9m4WQ==}
     dev: true
 
   /@fast-csv/format@4.3.5:
@@ -3804,13 +3804,13 @@ packages:
     resolution: {integrity: sha512-9K4zoImiZc3HlIp6AVUDE4CWYx22a+lhSZMYNpbjW04+YF0KWj4pJXnEMjdnFTiQibFFmElcsasJXDbdI/EPhA==}
     dependencies:
       '@types/eslint': 8.21.3
-      '@types/estree': 0.0.51
+      '@types/estree': 1.0.0
     dev: true
 
   /@types/eslint@8.21.3:
     resolution: {integrity: sha512-fa7GkppZVEByMWGbTtE5MbmXWJTVbrjjaS8K6uQj+XtuuUv1fsuPAxhygfqLmsb/Ufb3CV8deFCpiMfAgi00Sw==}
     dependencies:
-      '@types/estree': 0.0.51
+      '@types/estree': 1.0.0
       '@types/json-schema': 7.0.11
     dev: true
 
