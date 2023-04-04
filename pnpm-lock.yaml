@@ -182,8 +182,8 @@ importers:
         specifier: 2.0.0-beta.199
         version: 2.0.0-beta.199(vuepress-shared@2.0.0-beta.199)(vuepress@2.0.0-beta.61)
       vuepress-plugin-remove-pwa:
-        specifier: 2.0.0-beta.199
-        version: 2.0.0-beta.199(vuepress@2.0.0-beta.61)
+        specifier: 2.0.0-beta.201
+        version: 2.0.0-beta.201(vuepress@2.0.0-beta.61)
       vuepress-shared:
         specifier: 2.0.0-beta.199
         version: 2.0.0-beta.199(@vuepress/client@2.0.0-beta.61)(vuepress@2.0.0-beta.61)
@@ -3804,13 +3804,13 @@ packages:
     resolution: {integrity: sha512-9K4zoImiZc3HlIp6AVUDE4CWYx22a+lhSZMYNpbjW04+YF0KWj4pJXnEMjdnFTiQibFFmElcsasJXDbdI/EPhA==}
     dependencies:
       '@types/eslint': 8.21.3
-      '@types/estree': 0.0.51
+      '@types/estree': 1.0.0
     dev: true
 
   /@types/eslint@8.21.3:
     resolution: {integrity: sha512-fa7GkppZVEByMWGbTtE5MbmXWJTVbrjjaS8K6uQj+XtuuUv1fsuPAxhygfqLmsb/Ufb3CV8deFCpiMfAgi00Sw==}
     dependencies:
-      '@types/estree': 0.0.51
+      '@types/estree': 1.0.0
       '@types/json-schema': 7.0.11
     dev: true
 
@@ -16963,8 +16963,8 @@ packages:
       - supports-color
     dev: true
 
-  /vuepress-plugin-remove-pwa@2.0.0-beta.199(vuepress@2.0.0-beta.61):
-    resolution: {integrity: sha512-dHNvnzo6TdX/Kw464jICBYdjPru5tMYUxYa+RVe6/gBkTTTaZyY4s5npaDc1/4U/iwHbxUJq5ztn94Zm1v8nlQ==}
+  /vuepress-plugin-remove-pwa@2.0.0-beta.201(vuepress@2.0.0-beta.61):
+    resolution: {integrity: sha512-9mUNq+JYEuO3HmQ3oUgfnxYf1wRaNZTTt4EMKdFRpcNZhA8O3T8QahpEV0XC1BlnL1nHQ0L7hiBH0XxXEhXS0g==}
     engines: {node: ^14.18.0 || >=16.0.0, npm: '>=8', pnpm: '>=7'}
     peerDependencies:
       vuepress: 2.0.0-beta.61
