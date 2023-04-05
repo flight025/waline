@@ -1,6 +1,6 @@
 {
   "name": "@waline/client",
-  "version": "0.0.2",
+  "version": "1.28.2",
   "private": true,
   "scripts": {
     "admin:build": "pnpm --dir=packages/admin build",
